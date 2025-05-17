@@ -91,4 +91,4 @@ streamlit run app.py
 - **Streamlit-reveal-slides**: Библиотека для создания презентаций
 
 ## Видео-демонстрация 
-[Ссылка на видео](video/demo.mp4)
+[Ссылка на видео](Video/demo.mp4)
